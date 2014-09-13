@@ -89,7 +89,7 @@ textarea {
  */
 
 body {
-    margin: 20px;
+    margin: 30px;
 }
 
 /* ==========================================================================
@@ -145,7 +145,11 @@ h4 {
 
 h5 {
     font-size: 0.83em;
-    margin: 1.67em 0;
+    font-family: Georgia;
+    font-style: italic;
+    color: #aaaaaa;
+    font-weight: lighter;
+    margin:0;
 }
 
 h6 {
